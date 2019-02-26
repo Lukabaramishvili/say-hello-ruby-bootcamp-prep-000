@@ -4,4 +4,4 @@ def say_hello(name)
   puts "Hello #{name}"
 end
 
-say_hello("Luka")
+say_hello("Kent Beck!")
